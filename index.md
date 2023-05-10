@@ -28,6 +28,6 @@ My GitHub page is https://github.com/ccubias2004 .
 
 
 * Lab 9
-    Lab 9 was one of the more difficult labs I had this semester. I learned a lot more of vectors and reading certain files which
-   was very new to me. Although difficult, I had fun with this lab with and without it's struggles.
+
+    Lab 9 was one of the more difficult labs I had this semester. I learned a lot more of vectors and reading certain files which was very new to me. Although difficult, I had fun with this lab with and without it's struggles.
 
